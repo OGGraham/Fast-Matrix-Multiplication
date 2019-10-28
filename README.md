@@ -1,6 +1,6 @@
 # Fast-Matrix-Multiplication
 
-Fast matrix multiplication written in C.
+Fast matrix multiplication written in C with OpenAcc.
 
 Written to be compiled with PGI. 
 
