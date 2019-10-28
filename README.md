@@ -1,6 +1,6 @@
 # Fast-Matrix-Multiplication
 
-Fast matrix multiplication on GPUs written in C.
+Fast matrix multiplication written in C.
 
 Written to be compiled with PGI. 
 
